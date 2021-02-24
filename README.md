@@ -1,7 +1,7 @@
 # riftDriverWin
 Small USB HID driver to activate Oculus Rift CV1 as extended display on Windows
 
-NOTE: Will not work in case the oculuse software/drivers are already installed on the machine.
+NOTE: Will not work in case the Oculus software/drivers are already installed on the machine.
 
 <b>How to compile the driver</b>
 - Start Microsoft Visual Studio
